@@ -1,4 +1,4 @@
-## OpenBSP
+## OpenBSP（已摆烂）
 
 * 适用于 SDCC 编译器的单片机板级支持包
 
